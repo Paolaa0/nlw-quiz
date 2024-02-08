@@ -23,8 +23,8 @@ const perguntas = [
     {
       pergunta: "Como você acessa o segundo elemento de um array chamado 'myArray' em JavaScript?",
       respostas: [
-        "myArray(2)",
-        "myArray[2]",
+        "myArray(1)",
+        "myArray[1]",
         "myArray.second"
       ],
       correta: 1
